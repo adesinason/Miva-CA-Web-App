@@ -5,5 +5,4 @@ const nextConfig: NextConfig = {
     root: __dirname,
   },
 };
-
 export default nextConfig;
